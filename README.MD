@@ -7,4 +7,5 @@
     - `yarn add lodash lodash.template`
 3) Add dependencies
     - `yarn add react-redux redux @material-ui/core react-router-dom` 
-4) 
+4) To Utilize the `Hook API', you must import `makeStyles
+    - `import {makeStyles} from 'material-ui-/core/Button'`;
