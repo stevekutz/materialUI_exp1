@@ -7,3 +7,4 @@
     - `yarn add lodash lodash.template`
 3) Add dependencies
     - `yarn add react-redux redux @material-ui/core react-router-dom` 
+4) 
